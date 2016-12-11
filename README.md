@@ -2,7 +2,7 @@
 My own Docker image for Transmission on the Rasperry Pi
 
 # Status
-[![Build status](https://travis-ci.org/napnap75/rpi-transmission.svg?branch=master)](https://travis-ci.org/napnap75/rpi-transmission) [![Image size](https://images.microbadger.com/badges/image/napnap75/rpi-transmission.svg)](https://microbadger.com/images/napnap75/rpi-transmission "Get your own image badge on microbadger.com") [![Github link](https://assets-cdn.github.com/favicon.ico)](https://github.com/napnap75/rpi-transmission) [![Docker hub link](https://www.docker.com/favicon.ico)](https://hub.docker.com/r/napnap75/rpi-transmission/)
+[![Image size](https://images.microbadger.com/badges/image/napnap75/rpi-transmission.svg)](https://microbadger.com/images/napnap75/rpi-transmission "Get your own image badge on microbadger.com") [![Github link](https://assets-cdn.github.com/favicon.ico)](https://github.com/napnap75/rpi-transmission) [![Docker hub link](https://www.docker.com/favicon.ico)](https://hub.docker.com/r/napnap75/rpi-transmission/)
 
 # Content
 This image is based [my own Alpine Linux base image](https://hub.docker.com/r/napnap75/rpi-alpine-base/).

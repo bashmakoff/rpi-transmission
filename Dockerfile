@@ -1,7 +1,9 @@
 FROM napnap75/rpi-alpine-base:latest
 
 # Install dependencies
-RUN apk add transmission-daemon
+RUN apk update \
+	&& apk add transmission-daemon \
+	&& rm -rf /var/cache/apk/*
 
 # Required volumes
 VOLUME /home
